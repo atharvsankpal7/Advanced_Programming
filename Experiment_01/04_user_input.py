@@ -1,4 +1,4 @@
-#default input datatype is string so we have to convert the string to int by typecasting
+# default input datatype is string so we have to convert the string to int by typecasting
 num1=int(input("Enter the two numbers -->"));
 
 num2=int(input());
